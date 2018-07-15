@@ -24,3 +24,13 @@
 /******6-10*********/
 1.结构体变量的整体赋值只有在定义时才能实现，定义完成之后若想赋值只能单个成员操作
 
+
+
+
+
+/*******7-15**********/
+1.再忆结构体：https://blog.csdn.net/zw1996/article/details/53844585
+2.typedef struct
+          {
+          }worker；
+  worker lichen；//worker现在是一个结构体类型，采用worker可以定义该类型的结构体
