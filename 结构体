@@ -34,3 +34,26 @@
           {
           }worker；
   worker lichen；//worker现在是一个结构体类型，采用worker可以定义该类型的结构体
+  3.如果定义的是一个结构体指针：（接上）worker *liwei = &lichen；
+                                    liwei->age = 23;用此来操作->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
