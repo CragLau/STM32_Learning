@@ -1,0 +1,7 @@
+1.写头文件时，为防止头文件被重复引用加入#ifndef，使用时
+#ifndef __LED_REG.H(__LED_REG.H在此就相当于一个标志位，只要是执行过此段程序就会写明此标志位)
+#define __LED_REG.H
+
+
+#endif
+2.
